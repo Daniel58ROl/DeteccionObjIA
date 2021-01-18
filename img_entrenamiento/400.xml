@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imagenes ia</folder>
+	<filename>400.jpg</filename>
+	<path>C:\Users\danie\Desktop\Lap nueva\Inteligencia Artificial\Unidad 4\Imagenes ia\400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>325</width>
+		<height>325</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>4</ymin>
+			<xmax>270</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>
