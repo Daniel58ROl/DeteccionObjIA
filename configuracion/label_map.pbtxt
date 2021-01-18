@@ -3,4 +3,12 @@ item {
   name: 'Tigre'
 }
 
+item {
+  id: 2
+  name: 'Daniel Saenz'
+}
 
+item {
+  id: 3
+  name: 'ELefante'
+}
