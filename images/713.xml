@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Imagenes ia</folder>
+	<filename>713.jpg</filename>
+	<path>C:\Users\danie\Desktop\Lap nueva\Inteligencia Artificial\Unidad 4\Imagenes ia\713.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>235</width>
+		<height>235</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elefante</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>11</ymin>
+			<xmax>211</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Elefante</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>129</ymin>
+			<xmax>180</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Elefante</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>126</ymin>
+			<xmax>224</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>
